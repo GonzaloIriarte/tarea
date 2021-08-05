@@ -1,0 +1,35 @@
+{
+    "nombre": "Gatitos",
+    "listado": [
+        {
+            "nombre": "Kum",
+            "comidaFavorita": "Whiskas",
+            "estaCastrado": true,
+            "foto": "1"
+        },
+        {
+            "nombre": "Garritas",
+            "comidaFavorita": "Bio Fresh",
+            "estaCastrado": true,
+            "foto": "2"
+        },
+        {
+            "nombre": "Andres",
+            "comidaFavorita": "Pro Plan",
+            "estaCastrado": true,
+            "foto": "3"
+        },
+        {
+            "nombre": "Raul",
+            "comidaFavorita": "Carne Picada",
+            "estaCastrado": true,
+            "foto": "4"
+        },
+        {
+            "nombre": "Piter",
+            "comidaFavorita": "Atun",
+            "estaCastrado": false,
+            "foto": "5"
+        }
+    ]
+}
